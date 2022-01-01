@@ -65,8 +65,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "sslKey": "./ssl/server.key",
             "sslCert": "./ssl/server.crt",
+            "sslKey": "./ssl/server.key",
             "ssl": true,
             "browserTarget": "client:build"
           },
@@ -78,7 +78,7 @@
               "browserTarget": "client:build:development"
             }
           },
-          "defaultConfiguration": "development"
+          "defaultConfiguration": "production"
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",

@@ -1331,11 +1331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emily Connearney\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Emily Connearney\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Emily Connearney\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emily Connearney\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emily Connearney\\AppData\\Roaming\\NuGet\\NuGet.Config"
