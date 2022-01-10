@@ -114,3 +114,5 @@ C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\
 C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
 C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
