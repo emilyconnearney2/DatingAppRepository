@@ -121,3 +121,4 @@ C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\
 C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emily Connearney\Documents\CS490\DatingAppRepository\DatingApp\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
