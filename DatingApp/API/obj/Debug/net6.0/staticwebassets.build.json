@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Wxk1ABW6T8WYSIq6m5XW6lc4JGSZeYG/lTf+t/2J+CE=",
+  "Hash": "NRxrsH7H9bJb7xlcILKNw3d5AAK/O/0PkQTo/uOpWuw=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -170,12 +170,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\main.490184bfc2a400beb641.js",
+      "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\main.820b2b14ed647882f74c.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.490184bfc2a400beb641.js",
+      "RelativePath": "main.820b2b14ed647882f74c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.490184bfc2a400beb641.js"
+      "OriginalItemSpec": "wwwroot\\main.820b2b14ed647882f74c.js"
     },
     {
       "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\polyfills.7d99fe739f19bbf4acee.js",
