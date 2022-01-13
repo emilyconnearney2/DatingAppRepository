@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MnWlzkEXrGKC4Pv9j784mk1KXRwMqqNymI6zTnhJYv5lmLB0FtTicolXrEAZSRkU/nBUnIppaqOdjd9yiD6jFg==",
+  "dgSpecHash": "4rFBBV6tF8fUeHxN4tV3QHy1MGnkRn/oOhnQXIDGdK25l9Ey7H/UdcYbEI9TGwHHm7fM3RJfcXlAobK7e7fbkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,8 @@
     "C:\\Users\\Emily Connearney\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.0\\microsoft.identitymodel.tokens.6.15.0.nupkg.sha512",
     "C:\\Users\\Emily Connearney\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Emily Connearney\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Emily Connearney\\.nuget\\packages\\npgsql\\6.0.2\\npgsql.6.0.2.nupkg.sha512",
+    "C:\\Users\\Emily Connearney\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.2\\npgsql.entityframeworkcore.postgresql.6.0.2.nupkg.sha512",
     "C:\\Users\\Emily Connearney\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\Emily Connearney\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
     "C:\\Users\\Emily Connearney\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
