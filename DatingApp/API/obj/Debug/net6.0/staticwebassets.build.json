@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JSbs82v5JKQRJGml4oxUMZHSoyNpnzL2r76grCUJWPk=",
+  "Hash": "Wxk1ABW6T8WYSIq6m5XW6lc4JGSZeYG/lTf+t/2J+CE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -170,12 +170,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\main.cb9f0a20c47778716058.js",
+      "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\main.490184bfc2a400beb641.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.cb9f0a20c47778716058.js",
+      "RelativePath": "main.490184bfc2a400beb641.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.cb9f0a20c47778716058.js"
+      "OriginalItemSpec": "wwwroot\\main.490184bfc2a400beb641.js"
     },
     {
       "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\polyfills.7d99fe739f19bbf4acee.js",
@@ -221,12 +221,12 @@
       "OriginalItemSpec": "wwwroot\\runtime.4b1540bf51da5ef20c67.js"
     },
     {
-      "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\styles.0cc3ffb80fba9bd44676.css",
+      "Identity": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\styles.869ffb5998f8129d51b1.css",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Emily Connearney\\Documents\\CS490\\DatingAppRepository\\DatingApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "styles.0cc3ffb80fba9bd44676.css",
+      "RelativePath": "styles.869ffb5998f8129d51b1.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\styles.0cc3ffb80fba9bd44676.css"
+      "OriginalItemSpec": "wwwroot\\styles.869ffb5998f8129d51b1.css"
     }
   ]
 }
